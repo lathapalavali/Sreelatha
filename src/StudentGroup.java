@@ -4,8 +4,6 @@ import java.util.Calendar;
 import java.util.Date;
 import java.util.List;
 
-import com.sreelatha.bean.Student;
-import com.sreelatha.service.StudentArrayOperation;
 
 /**
  * Utility class for Student CRUD Operations
